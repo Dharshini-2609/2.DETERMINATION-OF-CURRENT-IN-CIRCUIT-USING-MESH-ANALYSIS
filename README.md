@@ -1,8 +1,8 @@
 # 2.DETERMINATION-OF-CURRENT-IN-CIRCUIT-USING-MESH-ANALYSIS
 
 **AIM:**
-## NAME: P TEJASHWINI
-## REF NO:25018382
+## NAME: S  DHARSHINI
+## REF NO:25011405
 *To determine the current in circuit using mesh analysis both theoretically and practically for a given DC circuit.*
 
 **APPARATUS REQUIRED:**
