@@ -1,8 +1,8 @@
 # 2.DETERMINATION-OF-CURRENT-IN-CIRCUIT-USING-MESH-ANALYSIS
 
 **AIM:**
-## NAME: S  DHARSHINI
-## REF NO:25011405
+## NAME : S  DHARSHINI
+## REF NO : 25011405
 *To determine the current in circuit using mesh analysis both theoretically and practically for a given DC circuit.*
 
 **APPARATUS REQUIRED:**
@@ -23,9 +23,15 @@
 
 **CIRCUIT DIAGRAM:**
 
-![WhatsApp Image 2025-10-16 at 16 21 10_e795c2ac](https://github.com/user-attachments/assets/862ee7c5-49c5-418b-8b74-1b36f03226c5)
-![WhatsApp Image 2025-10-16 at 16 21 13_82ba0f3d](https://github.com/user-attachments/assets/5369eae0-0db6-4e46-9a9b-e9c7a538adc7)
-![WhatsApp Image 2025-10-16 at 15 42 40_62c3fb8e](https://github.com/user-attachments/assets/1fd15af6-7905-41bd-a1ff-48a70e412856)
+<img width="1280" height="636" alt="image" src="https://github.com/user-attachments/assets/74c8fd66-b9ac-4f38-ae79-040d071171cc" />
+
+<img width="1280" height="708" alt="image" src="https://github.com/user-attachments/assets/90ca7923-2bf0-4d68-abff-0e03d747d00c" />
+
+<img width="844" height="1280" alt="image" src="https://github.com/user-attachments/assets/e3051246-280d-4b6a-814c-7e5cbb727390" />
+
+
+
+
 
 **PROCEDURE:** 
 
@@ -45,9 +51,9 @@
 
 Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 	/	V supply are:
 
-a)	The current across 330Ω resistor is	A.
+a)	The current across 330Ω resistor is	1.23 mA.
 
-b)	The current across 560Ω resistor is	A.
+b)	The current across 560Ω resistor is -4.3 mA.
 
-c)	The current across 470Ω resistor is	A.
+c)	The current across 470Ω resistor is 5.7A.
 
